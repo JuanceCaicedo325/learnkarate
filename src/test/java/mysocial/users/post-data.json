@@ -1,0 +1,20 @@
+[
+    {
+        "title": "My first post",
+        "body": "This is my first post on MySocial!",
+        "userId": 1
+    },
+
+    {
+        "title": "My second post",
+        "body": "This is my second post on MySocial!",
+        "userId": 2
+    },
+
+    {
+        "title": "My third post",
+        "body": "This is my third post on MySocial!",
+        "userId": 3
+    }
+
+]
